@@ -3,11 +3,13 @@ Example for posting xml data to lxpbase using node
 
 ## Usage
 
+Install and run the server
 ```
-npm i
+npm install
 node index.js
 ```
 
+Post to the server
 ```
 // set the URL to wherever you run this code from
 $.ajax({
